@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Braeden57
 - 👀 I’m interested in Gaming, Soccer and programming.
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning the three C's. C, C++ and C#.
 - 💞️ I’m looking to collaborate on software related projects.
 - 📫 Reach me via email: sowinskibraeden@gmail.com
 
